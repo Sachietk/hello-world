@@ -6,7 +6,7 @@ dependencies:
   - sympy
   - matplotlib
   - pandas
-  -ipywidets
+  -ipywidgets
   -math
   -cmath
   -scipy
