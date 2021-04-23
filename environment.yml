@@ -6,4 +6,4 @@ dependencies:
   - sympy
   - matplotlib
   - scipy
-  -voila
+  - voila
