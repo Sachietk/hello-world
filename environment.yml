@@ -1,2 +1,17 @@
 source activate example-environment
 conda env export --no-builds -f environment.yml
+name: example-environment
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - sympy
+  - matplotlib
+  - pandas
+  -ipywidets
+  -math
+  -cmath
+  -scipy
+  
+  
+
