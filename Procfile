@@ -1,1 +1,1 @@
-web: voila --port=$PORT --no-browser --enable_nbextensions=True Harmonic Oscillator.ipynb
+web: voila --port=$PORT --no-browser --enable_nbextensions=True hydrogen.ipynb
